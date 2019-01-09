@@ -1,0 +1,8 @@
+.dropdown-toggle{
+  cursor: pointer;
+}
+
+.img-fluid{
+  width: 100%;
+  height: 300px;
+}
